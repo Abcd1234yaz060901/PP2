@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="Bakcup\pp2.bak" />
     <None Include="PP2DB.xsc">
       <DependentUpon>PP2DB.xsd</DependentUpon>
     </None>
