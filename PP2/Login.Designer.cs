@@ -81,7 +81,7 @@
             this.PasswordTextBox.Location = new System.Drawing.Point(346, 353);
             this.PasswordTextBox.Name = "PasswordTextBox";
             this.PasswordTextBox.PasswordChar = '*';
-            this.PasswordTextBox.Size = new System.Drawing.Size(313, 20);
+            this.PasswordTextBox.Size = new System.Drawing.Size(321, 20);
             this.PasswordTextBox.TabIndex = 11;
             this.PasswordTextBox.Text = "123";
             // 
@@ -151,7 +151,7 @@
             this.label2.TabIndex = 8;
             this.label2.Text = "WELCOME";
             // 
-            // Form1
+            // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -164,7 +164,7 @@
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.panelLeft);
-            this.Name = "Form1";
+            this.Name = "Login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
